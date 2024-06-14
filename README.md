@@ -24,6 +24,7 @@ This project is a basic code editor implemented using React with syntax highligh
 
 ## Demo
 
+![image](https://github.com/rohitchourey0809/Prodios-Labs-Assignment/assets/97465195/eb5d074f-1a59-4525-9597-0a51de48b304)
 
 
 ## Installation
